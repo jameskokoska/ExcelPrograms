@@ -1,6 +1,6 @@
 # Excel Programs
-🗂️ A few programs created in Google Sheets, also works in MS Excel. Includes: collaborative checklist, mark tracker, course selection helper<br/>
-View the 3 programs and descriptions below:
+🗂️ A few programs created in Google Sheets, also works in MS Excel. Includes: bill splitter, collaborative checklist, mark tracker, course selection helper<br/>
+View the 4 programs and descriptions below:
 
 ## Bill Splitter
 ### Release

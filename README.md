@@ -2,6 +2,18 @@
 🗂️ A few programs created in Google Sheets, also works in MS Excel. Includes: collaborative checklist, mark tracker, course selection helper<br/>
 View the 3 programs and descriptions below:
 
+## Bill Splitter
+### Release
+Can be seen here, feel free to create a copy:
+https://docs.google.com/spreadsheets/d/1TLBRn7NCaTBwLt3afPVD73xwKQwlEd6cGR_SZBkCKhQ/edit?usp=sharing
+### Summary
+A transaction manager that can split transactions amongst different people. This is useful if you have that one person who handles the payments for a large trip, and others need to pay their share accordingly.
+### Usage
+Add transactions under `Name` and the cost under `Cost`. Enter users names by replacing `Name 1`, `Name 2`, ... etc. Enter the percentage for each user that they spent for the respective transaction. A summary of total amount spent for each person can be seen on the `Summary` sheet. Each person should pay back the spender this amount. 
+### Screenshots
+![image](https://user-images.githubusercontent.com/50821962/211217113-fdc36e1e-5fdf-423e-b754-eb023c82eab8.png)
+![image](https://user-images.githubusercontent.com/50821962/211217123-abd19d25-696c-4651-9d01-47b0c1093636.png)
+
 ## Collaborative Task List
 ### Release
 Can be seen here, feel free to create a copy:
